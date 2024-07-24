@@ -26,10 +26,10 @@
 #define WIFI_PASSWORD "12345678"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDiNoZhZNJCr0RnGQSm_s_P4jIeKvrwX08"
+#define API_KEY ""
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://bin2024-1eada-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define DATABASE_URL ""
 
 //Define Firebase Data object
 FirebaseData fbdo;
